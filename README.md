@@ -8,4 +8,4 @@
 - 🛠 My working language: Python(pandas, numpy, scikit-learn) | SQL | R(dplr, tidyverse, ggplot, caret) | Tableau
 - ⚡ More keywords about me: ENFP | Fitness | Food and Winer | ACG
 
-![](https://github-readme-stats.vercel.app/api?username=ZiHuiGan)
+![](https://github-readme-stats.vercel.app/api?username=ZiHuiGan&theme=dark)
