@@ -1,4 +1,4 @@
-### Hi, I'm ZiHui (Grace) 👋
+### Hi, I'm ZiHui Gan (Grace) 👋
 
 - 🔭 I’m currently a business analyst in traditional industry. I am actively exploring ways to utilize data efficiently to solve prolems in real bussienss world.   
 - 🌱 My interests: Database, Data Governance, Operation Management
